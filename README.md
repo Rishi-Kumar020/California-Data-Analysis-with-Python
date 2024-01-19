@@ -1,6 +1,7 @@
 # California Dataset Analysis with Python
 Introduction:
 Welcome to the California Dataset Analysis project! This project aims to explore and analyze a dataset related to California using Python. The dataset encompasses various aspects of the state, and our goal is to extract meaningful insights through data analysis.
+
 Features:
 Nominal Feature: ocean_proximity
 Ordinal Feature: Not explicitly mentioned in the provided data
